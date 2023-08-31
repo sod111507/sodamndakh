@@ -1,0 +1,205 @@
+.all {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 350px;
+  margin-right: 350px;
+  margin-top: 15px;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 120px;
+  margin-right: 197px;
+  margin-left: 197px;
+}
+.buttons {
+  display: flex;
+  gap: 20px
+}
+.firstgrid {
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+}
+.secondgrid {
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+}
+.thirdgrid {
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+}
+.thingImg {
+  border-radius: 15px;
+}
+.cards {
+  display: flex;
+  gap: 220px;
+  justify-content: center;
+  margin-top: 75px;
+  margin-bottom: 25px;
+}
+.firstGrid {
+  background-color: white;
+  width: 370px;
+  height: 440px;
+  border-radius: 20px;
+}
+.firstText {
+  display: flex;
+  flex-direction: column;
+  margin-left: 30px;
+  gap: 20px;
+  margin-top: 25px
+}
+.firstAvatar {
+  position: absolute;
+  display: flex;
+  margin-bottom: 80px;
+  margin-top: -70px;
+  margin-left: 25px;
+  justify-content: center;
+  gap: 18px;
+  
+}
+.icon {
+  border-radius: 50%;
+  width: 45px;
+  height: 45px
+}
+.ph {
+  height: 44px;
+  width: 165px;
+}
+.but {
+  display: flex;
+  justify-content: center;
+}
+.generic {
+  background-color: inherit;
+  border: none;
+  border-bottom: solid 0.5px black;
+}
+.general {
+  background: rgba(77, 160, 253, 0.10);
+  border: solid 2px #4DA0FD6B;
+  color: #4DA0FD6B;
+}
+.family {
+  font-family: 'Cabin', sans-serif;
+  font-weight: 100 200 400; 
+}
+.familee {
+  font-family: 'Poppins', sans-serif;
+}
+.black {
+  display: column;
+  justify-content: space-around;
+  background-color: #252B3B;
+  height: 336px;
+  margin-top: 65px;
+  margin-bottom: 35px;
+
+}
+.whitee {
+  color: white;
+  gap: 15px;
+  font-size: 20px;
+  margin-top: 15px;
+  margin-right: -15px;
+}
+.firstcol {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.secondcol {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.thirdcol {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.fourthcol {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.socialb {
+  display: flex;
+  font-size: 25px;
+  width: 296px;
+  height: 56px;
+  border: none;
+  color:#4DA0FD6B
+}
+.social {
+  font-size: 18px;
+  color: white;
+  font-weight: 300;
+}
+.amndakh {
+  display: flex;
+  margin-left: 133px;
+  gap: 279px;
+  margin-top: 15px;
+  
+}
+.fringe {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 40px;
+}
+.op {
+  margin-top: 46px;
+}
+.whit {
+  font-size: 35px;
+  color: white;
+}
+.whiteee {
+  color: white;
+  gap: 15px;
+  font-size: 20px;
+  margin-top: 15px;
+
+  margin-left: 71px
+}
+.whiteeee {
+  color: white;
+  font-size: 20px;
+  margin-top: 15px;
+  margin-left: 114px;
+  
+}
+.whiteeeee {
+  color: white;
+  font-size: 20px;
+  margin-top: 15px;
+}
+.dementia {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin-right: 150px;
+  margin-left: 150px;
+}
+.mpaa {
+  margin-right: 197px;
+  margin-left: 197px
+}
+.socone {
+  display: flex;
+  gap: 10px;
+  justify-content: left;
+}
+.whitee {
+  margin-left: 10px
+}
